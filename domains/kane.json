@@ -1,0 +1,11 @@
+{
+  "description": "kane.is-a.dev",
+  "repo": "https://github.com/kanetjuh",
+  "owner": {
+    "username": "Kane",
+    "email": "klvoets@outlook.com"
+  },
+  "record": {
+    "CNAME": "github.com/kanetjuh"
+  }
+}
